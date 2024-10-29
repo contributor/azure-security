@@ -3,4 +3,4 @@ az storage blob show \
     --account-key 00000000 \
     --container-name mycontainer \
     --name blob \
-    --query “properties.serverEncrypted”     
+    --query "properties.serverEncrypted"     
